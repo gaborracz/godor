@@ -95,8 +95,7 @@ vizsgaltGodor = melysegAdatok[godorKezdete:godorVege + 1]
 
 # 6. feladat b:
 
-for i in vizsgaltGodor:
-    elejetol 
+
 
 # 6. feladat c:
 print("c)")
@@ -116,7 +115,7 @@ vizmennyiseg = 0
 for i in vizsgaltGodor:
     vizmennyiseg = ((i -1 ) * 1 *10) + vizmennyiseg
 
-print(f"A vízmennyiség {vizmennyiseg} m^3.")
+print(f"e)\nA vízmennyiség {vizmennyiseg} m^3.")
     
     
     
